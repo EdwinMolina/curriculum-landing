@@ -1,0 +1,10 @@
+    <svg viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <mask id="mask1" mask-type="alpha">
+            <path d="M86.6 50C57.7 100 -57.7 100 -86.6 50C-115.5 0 -57.7 -100 0 -100C57.7 -100 115.5 0 86.6 50" fill="#BB004B"></path>
+        </mask>
+    
+        <g mask="url(#mask1)" transform="translate(100 106.25)">
+            <path d="M86.6 50C57.7 100 -57.7 100 -86.6 50C-115.5 0 -57.7 -100 0 -100C57.7 -100 115.5 0 86.6 50" fill="#BB004B"></path>
+            <image class="" x='' y='' href=""/>
+        </g>
+    </svg>
